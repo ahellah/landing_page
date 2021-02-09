@@ -5,7 +5,8 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
- project description: Build navbar based on sections while changing the circle positions while scrolling.
+ ## Description: 
+ Build navbar based on sections and moving the circle positions while scrolling.
  
 ## How it works 
  1- Click on the spiecfied section name to read more about it.
